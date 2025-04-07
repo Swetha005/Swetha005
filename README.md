@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Swetha 👋  
+Welcome to my GitHub space!
 
-<!--
-**Swetha005/Swetha005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Machine Learning enthusiast** who loves building smart and creative solutions using code. I enjoy exploring how technology can solve real-world problems, and I'm currently diving into the world of **AI/ML**.
 
-Here are some ideas to get you started:
+## 🚀 Projects I've Worked On
+- 🔍 **Lifespan Predictor**  
+  Predicts human lifespan based on lifestyle habits like sleep, activity, and diet using ML models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🕵️‍♂️ **Lie Detector**  
+  A machine learning-based system that analyzes patterns in text to detect deception.
+
+## 🌱 Currently Learning
+- Deep Learning with Python  
+- UI/UX Design Principles (Figma, Design Thinking)  
+- Building better ML models & deploying them
+
+## 💡 Interests
+- AI for good  
+- Human-centered design  
+- Creative coding + storytelling  
+
+## 🤝 Let's Connect!
+I'm always open to collaboration, feedback, or just tech talk.  
+Feel free to reach out or check out my projects!
